@@ -1,0 +1,8 @@
+name: Test
+author: Weefle
+version: 1.0
+description: Test Plugin
+main: fr.weefle.test.Main
+commands:
+  test:
+    description: Test Command
